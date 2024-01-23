@@ -74,7 +74,7 @@ Based on model insights, customers were segmented into high, average, and low ta
 ```
 Personal Loam Campaign Project
 │   README.md
-│   project3.ipynb   
+│   Notebook.html   
 │
 └───data
 │   │   Problem Statement.pdf
@@ -89,4 +89,4 @@ Personal Loam Campaign Project
 
 ---
 Visual Insights 🖼️
-All visuals are included in the **Project 3.html** file
+All visuals are included in the **Notebook.html** file
